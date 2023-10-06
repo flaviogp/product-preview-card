@@ -84,13 +84,3 @@ Your users should be able to:
 
 - Frontend Mentor - [@flaviogp](https://www.frontendmentor.io/profile/flaviogp)
 
-## Acknowledgments
-
-### Run the project
-
-To run the client, you need to run the following command:
-
-```bash
-npm install
-npm run dev
-```
